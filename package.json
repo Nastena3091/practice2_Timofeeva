@@ -1,0 +1,22 @@
+{
+  "name": "practice2_timofeeva",
+  "version": "1.0.0",
+  "description": "sfjsjlo",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nastena3091/practice2_Timofeeva.git"
+  },
+  "author": "Nastena3091",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nastena3091/practice2_Timofeeva/issues"
+  },
+  "homepage": "https://github.com/Nastena3091/practice2_Timofeeva#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
